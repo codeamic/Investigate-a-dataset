@@ -1,2 +1,8 @@
 # Investigate-a-dataset
-This Repository contains my Udacity Data analytics Nano degree project, Investigate a dataset.
+This is my Udacity Data analytics Nano degree project to Investigate a dataset. i Analysed a dataset and then communicate findings about it using the Python libraries NumPy, pandas, and Matplotlib.
+## What you need to install
+* Anaconda or miniconda
+* pandas
+* NumPy
+* Matplotlib
+* csv
